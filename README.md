@@ -1,5 +1,5 @@
 # NoSQL-Challenge
-NU Bootcamp Module 12
+Bootcamp Module 12
 
 ** Breakdown of files**
 -establishments.json  -- this file contains the raw JSON data that I uploaded into MongoDB in order to perform the analysis.
